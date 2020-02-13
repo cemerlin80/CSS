@@ -1,0 +1,45 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+    text-decoration-line: underline;
+    background-color: aqua;
+}
+
+h3 {
+    color: blue;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+.Article1 {
+    background-color: beige;
+    border-radius: solid;
+    width: 20%;
+    align-content: center;
+    
+}
+
+.Article2 {
+
+    background-color: aqua;
+    word-spacing: 10px;
+    width: 10%;
+    border-radius: black;
+    font-weight: bold;
+    margin-left: 200px;
+}
+
+.Article3 {
+    background-color: beige;
+    color: red;
+    width: 15%;
+    float: right;
+    border: solid;
+    padding-bottom:  3px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: static;
+
+}

@@ -1,0 +1,102 @@
+/*Accueil */
+
+.slogan {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-left: 40px;
+    float: right;
+    margin-right: 40%;
+    margin-top: 3em;
+}
+ 
+.menu {
+    border: solid;
+    background-color: black;
+    margin-bottom: 4px; 
+}
+
+.menu ul li{
+    display: inline;
+     
+}
+.menu ul li a{
+
+    color: #ffffff;   
+}
+aside {
+    position: inherit;
+    float: right;
+    background-color: #C0C0C0;
+    width: 40%;
+    height: 30em;
+    margin-top: 1px;
+    
+}
+aside p {
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-top: 1em;
+    margin-left: 4px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;  
+}
+
+section article p {
+    font-size: 20px;
+}
+
+.promotion {
+    width: 100%;
+    height: 15em;
+}
+
+.mentions {
+
+    border: solid;
+    background-color: black;
+
+}
+
+.mentions ul li {
+    display: inline;
+}
+
+.mentions ul li a {
+    color: #ffffff;
+}
+ /* Tableau */
+
+caption {
+    font-size: 20px;
+    font-weight: bolder;
+    padding-bottom: 1em;
+    
+}
+table {
+    color: black;
+    border: solid;
+    border-radius: black;
+    background: #F8F8FF;
+}
+thead {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+}
+tbody {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+/* Contact */
+
+fieldset {
+
+    background-color: #B0C4DE;
+    font-weight: bold;
+}
+legend {
+    font-size: 25px;
+    border: 2px dashed red;
+}
